@@ -1,0 +1,10 @@
+G:\MyLab\TransformSystem\TransformSystem\bin\Debug\TransformSystem.exe.config
+G:\MyLab\TransformSystem\TransformSystem\bin\Debug\TransformSystem.exe
+G:\MyLab\TransformSystem\TransformSystem\bin\Debug\TransformSystem.pdb
+G:\MyLab\TransformSystem\TransformSystem\obj\Debug\TransformSystem.csprojResolveAssemblyReference.cache
+G:\MyLab\TransformSystem\TransformSystem\obj\Debug\TransformSystem.csproj.CoreCompileInputs.cache
+G:\MyLab\TransformSystem\TransformSystem\obj\Debug\TransformSystem.exe
+G:\MyLab\TransformSystem\TransformSystem\obj\Debug\TransformSystem.pdb
+G:\MyLab\TransformSystem\TransformSystem\bin\Debug\Newtonsoft.Json.dll
+G:\MyLab\TransformSystem\TransformSystem\bin\Debug\Newtonsoft.Json.xml
+G:\MyLab\TransformSystem\TransformSystem\obj\Debug\TransformSystem.csproj.CopyComplete
